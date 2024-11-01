@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
+  "name": "sprunki-phase-10",
   "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "description": "sprunki phase 10 Mod APK Play Online on Android Game.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
